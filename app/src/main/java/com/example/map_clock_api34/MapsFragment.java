@@ -179,7 +179,7 @@ public class MapsFragment extends Fragment {
 
         locationManager = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
 
-        //123466
+
     }
 
     public void onResume() {
