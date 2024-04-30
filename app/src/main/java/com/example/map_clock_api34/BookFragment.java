@@ -32,7 +32,7 @@ public class BookFragment extends Fragment {
 
         return view;
     }
-
+//456456456456
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
